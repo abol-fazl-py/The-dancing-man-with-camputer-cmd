@@ -1,0 +1,11 @@
+In this file we used the camputer cmd . 
+=================================================
+open the cmd and write the :
+color a 
+and press Enter . 
+
+and next we write the : 
+
+curl ascii.live/rick 
+
+end ...
